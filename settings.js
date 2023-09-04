@@ -56,10 +56,10 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "Ciyo-Bot" //namabot kalian
 global.ownername = "Mono" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.myweb = "https://s.id/ciyomono" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@Monö" //bebas asal jan hapus
+global.myweb2 = "https://s.id/ciyomono" //bebas
+global.email = "duwicahyo010@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Malang' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
